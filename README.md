@@ -1,3 +1,3 @@
 # git-work-shop
 Divyansh Gupta
-Today is Saturday
+Today is Wednesday and I am practicing git.
